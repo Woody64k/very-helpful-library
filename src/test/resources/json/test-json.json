@@ -1,0 +1,19 @@
+{
+	"firstName": "Tom",
+	"lastName": "Sawyer",
+	"addresses": [
+		{
+			"city": "New York",
+			"street": "Broadway"
+		},
+		{
+			"city": "St. Petersburg",
+			"state": "Missouri",
+			"fail": "knownIssue"
+		}
+	],
+	"birth": {
+		"date": "1876-04-17",
+		"city": "St. Louis"
+	}
+}
